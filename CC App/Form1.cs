@@ -52,7 +52,7 @@ namespace CC_App
             Process process = new Process();
             process.StartInfo.FileName = "cmd.exe";
             process.StartInfo.WorkingDirectory = @"C:\Program Files\CloudCompare";
-            process.StartInfo.Arguments = "/C CloudCompare -o " + file1 + " -o " + file2 + " -C2C_DIST -C_EXPORT_FMT PLY -SAVE_CLOUDS";
+            process.StartInfo.Arguments = "/C CloudCompare -o " + file1 + " -o " + file2 + " -C2C_DIST -C_EXPORT_FMT E57 -SAVE_CLOUDS";
             process.Start();
 
             process.WaitForExit();

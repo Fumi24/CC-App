@@ -1,0 +1,20 @@
+C:\Users\Fumse\AppData\Local\Temporary Projects\CC App\bin\Debug\CC App.exe.config
+C:\Users\Fumse\AppData\Local\Temporary Projects\CC App\bin\Debug\CC App.exe
+C:\Users\Fumse\AppData\Local\Temporary Projects\CC App\bin\Debug\CC App.pdb
+C:\Users\Fumse\AppData\Local\Temporary Projects\CC App\obj\Debug\CC App.csprojAssemblyReference.cache
+C:\Users\Fumse\AppData\Local\Temporary Projects\CC App\obj\Debug\CC_App.Form1.resources
+C:\Users\Fumse\AppData\Local\Temporary Projects\CC App\obj\Debug\CC_App.Properties.Resources.resources
+C:\Users\Fumse\AppData\Local\Temporary Projects\CC App\obj\Debug\CC App.csproj.GenerateResource.cache
+C:\Users\Fumse\AppData\Local\Temporary Projects\CC App\obj\Debug\CC App.csproj.CoreCompileInputs.cache
+C:\Users\Fumse\AppData\Local\Temporary Projects\CC App\obj\Debug\CC App.exe
+C:\Users\Fumse\AppData\Local\Temporary Projects\CC App\obj\Debug\CC App.pdb
+C:\Users\Fumse\source\repos\CC App\CC App\bin\Debug\CC App.exe.config
+C:\Users\Fumse\source\repos\CC App\CC App\bin\Debug\CC App.exe
+C:\Users\Fumse\source\repos\CC App\CC App\bin\Debug\CC App.pdb
+C:\Users\Fumse\source\repos\CC App\CC App\obj\Debug\CC App.csprojAssemblyReference.cache
+C:\Users\Fumse\source\repos\CC App\CC App\obj\Debug\CC_App.Form1.resources
+C:\Users\Fumse\source\repos\CC App\CC App\obj\Debug\CC_App.Properties.Resources.resources
+C:\Users\Fumse\source\repos\CC App\CC App\obj\Debug\CC App.csproj.GenerateResource.cache
+C:\Users\Fumse\source\repos\CC App\CC App\obj\Debug\CC App.csproj.CoreCompileInputs.cache
+C:\Users\Fumse\source\repos\CC App\CC App\obj\Debug\CC App.exe
+C:\Users\Fumse\source\repos\CC App\CC App\obj\Debug\CC App.pdb
